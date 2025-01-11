@@ -1,0 +1,25 @@
+#doc {
+      width: 80%;
+      margin: 20px auto;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      min-height: 400px;
+      font-size: 18px;
+      outline: none;
+      background-color: rgb(36, 33, 33);
+      color:rgb(249, 240, 240);
+    }
+    h1{
+      color: rgb(134, 64, 64);
+      font-size: 30px;
+      font-style: normal;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      box-shadow: 2px 3px 4px rgb(6, 14, 17);
+    
+ }
+h1:hover{
+  cursor: pointer;
+text-decoration: underline;
+
+}
