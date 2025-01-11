@@ -33,4 +33,5 @@ and share documents over the internet. Key features include real-time synchroniz
 
 **9.Integration with External Tools:** Works with cloud storage platforms, productivity tools, and APIs for extended functionality.
 
-**ouput**
+**ouput :**
+![task_3 output](https://github.com/user-attachments/assets/c3c601df-500c-44de-bed6-5ac2abe1c253)
